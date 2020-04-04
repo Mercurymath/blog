@@ -1,0 +1,2 @@
+# blog
+Mercury's blog.
